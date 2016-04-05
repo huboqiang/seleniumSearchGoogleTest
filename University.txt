@@ -1,0 +1,6 @@
+1	beihua university
+2	harbin institute of technology
+3	hebei normal university of science and technology
+4	shanxi datong university
+5	xiangtan university
+6	zhejiang normal university
